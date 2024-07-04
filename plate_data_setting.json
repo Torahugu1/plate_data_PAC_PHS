@@ -1,0 +1,411 @@
+{
+    "trench" : [
+        {
+            "path": "plate_data/mapdata/trench.dat",
+            "properties": {
+                "name" : "trench",
+                "depth_km" : "0",
+                "line" : "dash",
+                "color" : "black"
+             }
+        }
+    ],
+    "PHS" : [
+        {
+            "path": "plate_data/baba/plate_d10km_baba.dat",
+            "properties": {
+                "name" : "baba_10km",
+                "depth_km" : "10",
+                "line" : "solid",
+                "color" : "red"
+            }
+        },
+        {
+            "path": "plate_data/sw/plate_d10km.dat",
+            "properties": {
+                "name" : "sw_10km",
+                "depth_km" : "10",
+                "line" : "solid",
+                "color" : "red"
+            }
+        },
+        {
+            "path": "plate_data/sw/plate_d20km.dat",
+            "properties": {
+                "name" : "sw_20km",
+                "depth_km" : "20",
+                "line" : "solid",
+                "color" : "red"
+            }
+        },
+        {
+            "path": "plate_data/sw/plate_d30km.dat",
+            "properties": {
+                "name" : "sw_30km",
+                "depth_km" : "30",
+                "line" : "solid",
+                "color" : "red"
+            }
+        },
+        {
+            "path": "plate_data/sw/plate_d40km.dat",
+            "properties": {
+                "name" : "sw_40km",
+                "depth_km" : "40",
+                "line" : "solid",
+                "color" : "red"
+            }
+        },
+        {
+            "path": "plate_data/sw/plate_d40km_2.dat",
+            "properties": {
+                "name" : "sw_40km_2",
+                "depth_km" : "40",
+                "line" : "dash",
+                "color" : "red"
+            }
+        },
+        {
+            "path": "plate_data/sw/plate_d50km.dat",
+            "properties": {
+                "name" : "sw_50km",
+                "depth_km" : "50",
+                "line" : "solid",
+                "color" : "red"
+            }
+        },
+        {
+            "path": "plate_data/sw/plate_d50km_2.dat",
+            "properties": {
+                "name" : "sw_50km_2",
+                "depth_km" : "50",
+                "line" : "dash",
+                "color" : "red"
+            }
+        },
+        {
+            "path": "plate_data/sw/plate_d60km.dat",
+            "properties": {
+                "name" : "sw_60km",
+                "depth_km" : "60",
+                "line" : "solid",
+                "color" : "red"
+            }
+        },
+        {
+            "path": "plate_data/nakajima/plate_d50km_nakajima2.dat",
+            "properties": {
+                "name" : "nakajima2_50km",
+                "depth_km" : "50",
+                "line" : "solid",
+                "color" : "red"
+            }
+        },
+        {
+            "path": "plate_data/nakajima/plate_d60km_nakajima2.dat",
+            "properties": {
+                "name" : "nakajima2_60km",
+                "depth_km" : "60",
+                "line" : "solid",
+                "color" : "red"
+            }
+        },
+        {
+            "path": "plate_data/nakajima/plate_d80km_nakajima2.dat",
+            "properties": {
+                "name" : "nakajima2_80km",
+                "depth_km" : "80",
+                "line" : "solid",
+                "color" : "red"
+            }
+        },
+        {
+            "path": "plate_data/nakajima/plate_d100km_nakajima2.dat",
+            "properties": {
+                "name" : "nakajima2_100km",
+                "depth_km" : "100",
+                "line" : "solid",
+                "color" : "red"
+            }
+        },
+        {
+            "path": "plate_data/nakajima/plate_d120km_nakajima2.dat",
+            "properties": {
+                "name" : "nakajima2_120km",
+                "depth_km" : "120",
+                "line" : "solid",
+                "color" : "red"
+            }
+        },
+        {
+            "path": "plate_data/nakajima/plate_d140km_nakajima2.dat",
+            "properties": {
+                "name" : "nakajima2_140km",
+                "depth_km" : "140",
+                "line" : "solid",
+                "color" : "red"
+            }
+        },
+        {
+            "path": "plate_data/nakajima/plate_d160km_nakajima2.dat",
+            "properties": {
+                "name" : "nakajima2_160km",
+                "depth_km" : "160",
+                "line" : "solid",
+                "color" : "red"
+            }
+        },
+        {
+            "path": "plate_data/nakajima/plate_d180km_nakajima2.dat",
+            "properties": {
+                "name" : "nakajima2_180km",
+                "depth_km" : "180",
+                "line" : "solid",
+                "color" : "red"
+            }
+        },
+        {
+            "path": "plate_data/izu3/plate_d10km.dat",
+            "properties": {
+                "name" : "izu3_10km",
+                "depth_km" : "10",
+                "line" : "solid",
+                "color" : "pink"
+            }
+        },
+        {
+            "path": "plate_data/izu3/plate_d10km.dat",
+            "properties": {
+                "name" : "izu3_10km",
+                "depth_km" : "10",
+                "line" : "solid",
+                "color" : "pink"
+            }
+        },
+        {
+            "path": "plate_data/izu3/plate_d20km.dat",
+            "properties": {
+                "name" : "izu3_20km",
+                "depth_km" : "20",
+                "line" : "solid",
+                "color" : "pink"
+            }
+        },
+        {
+            "path": "plate_data/izu3/plate_d30km.dat",
+            "properties": {
+                "name" : "izu3_30km",
+                "depth_km" : "30",
+                "line" : "solid",
+                "color" : "pink"
+            }
+        },
+        {
+            "path": "plate_data/izu3/plate_d40km.dat",
+            "properties": {
+                "name" : "izu3_40km",
+                "depth_km" : "40",
+                "line" : "solid",
+                "color" : "pink"
+            }
+        },
+        {
+            "path": "plate_data/izu3/plate_d50km.dat",
+            "properties": {
+                "name" : "izu3_50km",
+                "depth_km" : "50",
+                "line" : "solid",
+                "color" : "pink"
+            }
+        },
+        {
+            "path": "plate_data/izu3/plate_d60km.dat",
+            "properties": {
+                "name" : "izu3_60km",
+                "depth_km" : "60",
+                "line" : "solid",
+                "color" : "pink"
+            }
+        },
+        {
+            "path": "plate_data/izu3/plate_d70km.dat",
+            "properties": {
+                "name" : "izu3_70km",
+                "depth_km" : "70",
+                "line" : "solid",
+                "color" : "pink"
+            }
+        },
+        {
+            "path": "plate_data/izu3/plate_d80km.dat",
+            "properties": {
+                "name" : "izu3_80km",
+                "depth_km" : "80",
+                "line" : "solid",
+                "color" : "pink"
+            }
+        },
+        {
+            "path": "plate_data/izu3/plate_d90km.dat",
+            "properties": {
+                "name" : "izu3_90km",
+                "depth_km" : "90",
+                "line" : "solid",
+                "color" : "pink"
+            }
+        },
+        {
+            "path": "plate_data/izu3/plate_d100km.dat",
+            "properties": {
+                "name" : "izu3_100km",
+                "depth_km" : "100",
+                "line" : "solid",
+                "color" : "pink"
+            }
+        },
+        {
+            "path": "plate_data/izu3/plate_d110km.dat",
+            "properties": {
+                "name" : "izu3_110km",
+                "depth_km" : "110",
+                "line" : "solid",
+                "color" : "pink"
+            }
+        },
+        {
+            "path": "plate_data/izu3/plate_d120km.dat",
+            "properties": {
+                "name" : "izu3_120km",
+                "depth_km" : "120",
+                "line" : "solid",
+                "color" : "pink"
+            }
+        },
+        {
+            "path": "plate_data/izu3/plate_d130km.dat",
+            "properties": {
+                "name" : "izu3_130km",
+                "depth_km" : "130",
+                "line" : "solid",
+                "color" : "pink"
+            }
+        },
+        {
+            "path": "plate_data/izu3/plate_d140km.dat",
+            "properties": {
+                "name" : "izu3_140km",
+                "depth_km" : "140",
+                "line" : "solid",
+                "color" : "pink"
+            }
+        },
+        {
+            "path": "plate_data/kanto/plate_d10km.dat",
+            "properties": {
+                "name" : "kanto_10km",
+                "depth_km" : "10",
+                "line" : "solid",
+                "color" : "red"
+            }
+        },
+        {
+            "path": "plate_data/kanto/plate_d20km.dat",
+            "properties": {
+                "name" : "kanto_20km",
+                "depth_km" : "20",
+                "line" : "solid",
+                "color" : "red"
+            }
+        },
+        {
+            "path": "plate_data/kanto/plate_d30km.dat",
+            "properties": {
+                "name" : "kanto_30km",
+                "depth_km" : "30",
+                "line" : "solid",
+                "color" : "red"
+            }
+        },
+        {
+            "path": "plate_data/kanto/plate_d40km.dat",
+            "properties": {
+                "name" : "kanto_40km",
+                "depth_km" : "40",
+                "line" : "solid",
+                "color" : "red"
+            }
+        },
+        {
+            "path": "plate_data/kanto/plate_d50km.dat",
+            "properties": {
+                "name" : "kanto_50km",
+                "depth_km" : "50",
+                "line" : "solid",
+                "color" : "red"
+            }
+        },
+        {
+            "path": "plate_data/kanto/plate_d60km.dat",
+            "properties": {
+                "name" : "kanto_60km",
+                "depth_km" : "60",
+                "line" : "solid",
+                "color" : "red"
+            }
+        },
+        {
+            "path": "plate_data/kanto/plate_d70km.dat",
+            "properties": {
+                "name" : "kanto_70km",
+                "depth_km" : "70",
+                "line" : "solid",
+                "color" : "red"
+            }
+        },
+        {
+            "path": "plate_data/kanto/plate_d70km_2.dat",
+            "properties": {
+                "name" : "kanot_70km_2",
+                "depth_km" : "70",
+                "line" : "dash",
+                "color" : "red"
+            }
+        },
+        {
+            "path": "plate_data/kanto/plate_d80km.dat",
+            "properties": {
+                "name" : "kanto_80km",
+                "depth_km" : "80",
+                "line" : "solid",
+                "color" : "red"
+            }
+        },
+        {
+            "path": "plate_data/kanto/plate_d80km_2.dat",
+            "properties": {
+                "name" : "kanto_80km_2",
+                "depth_km" : "80",
+                "line" : "dash",
+                "color" : "red"
+            }
+        },
+        {
+            "path": "plate_data/kanto/plate_d90km.dat",
+            "properties": {
+                "name" : "kanto_90km",
+                "depth_km" : "90",
+                "line" : "solid",
+                "color" : "red"
+            }
+        },
+        {
+            "path": "plate_data/kanto/plate_d90km_2.dat",
+            "properties": {
+                "name" : "kanto_90km_2",
+                "depth_km" : "90",
+                "line" : "dash",
+                "color" : "red"
+            }
+        }
+    ]
+}

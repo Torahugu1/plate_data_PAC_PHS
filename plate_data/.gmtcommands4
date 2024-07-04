@@ -1,0 +1,16 @@
+# GMT common arguments shelf
+-Bwesna10
+-JL135/20/25/45/7
+-JM17
+-R130/147/30/47
+-X5
+-x11.9
+-Y5
+-y0.1
+-jM17
+EOF
+F
+
+7.5
+EOF
+
